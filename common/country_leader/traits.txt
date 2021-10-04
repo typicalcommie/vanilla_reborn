@@ -1,0 +1,17 @@
+leader_traits = {
+
+	left_hand = {
+	random = no
+	political_power_factor = 0.15
+	operative_slot = 2
+	industrial_capacity_factory = 0.1
+	}
+
+	man_of_steel = {
+	random = no
+	supply_consumption_factor = -0.05
+	max_planning_factor = 0.2
+	planning_speed = -0.1
+	}
+
+	}

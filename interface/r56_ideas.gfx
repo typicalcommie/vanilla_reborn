@@ -1,0 +1,56 @@
+
+spriteTypes = {
+###------> LAT <><> <><> <><> <><> <><>
+	spriteType = {
+		name = "GFX_idea_LAT_JAP_army_attache_tamoku_takatsuki" #to change later
+		texturefile = "gfx/interface/ideas/LAT/r56_idea_LAT_tamoku_takatsuki.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_JAP_naval_attache" #to change with generic japanese navy officer
+		texturefile = "gfx/interface/ideas/idea_generic_navy_asia_3.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_USA_army_attache_george_huthsteiner" #find real pic?
+		texturefile = "gfx/interface/ideas/idea_generic_air_europe_3.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_USA_naval_attache" #find real pic?
+		texturefile = "gfx/interface/ideas/idea_generic_navy_south_america_3.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_FRA_army_attache_jacques_hoppenot" #to change later
+		texturefile = "gfx/interface/ideas/lat/r56_idea_LAT_jacques_hoppenot.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_FRA_naval_attache_cpt_arzur"
+		texturefile = "gfx/interface/ideas/lat/r56_idea_LAT_french_naval_attache1.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_ENG_army_attache_croxton_vale"
+		texturefile = "gfx/interface/ideas/lat/r56_idea_LAT_british_land_attache1.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_ENG_naval_attache" #to change with generic british navy officer
+		texturefile = "gfx/interface/ideas/lat/r56_idea_LAT_british_land_attache1.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_GER_army_attache_horst_rossing" #find real pic?
+		texturefile = "gfx/interface/ideas/lat/r56_idea_LAT_german_land_attache1.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_GER_naval_attache_reimar_von_bonin"
+		texturefile = "gfx/interface/ideas/lat/r56_idea_LAT_german_naval_attache1.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_HOL_reliance_on_the_gold_standard"
+		texturefile = "gfx/interface/ideas/lat/r56_idea_reliance_on_the_gold_standard.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_HOL_reliance_on_the_gold_standard"
+		texturefile = "gfx/interface/ideas/lat/r56_idea_reliance_on_the_gold_standard.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_centralize_farming_production"
+		texturefile = "gfx/interface/ideas/generic/communism_generic.dds"
+	}
+}

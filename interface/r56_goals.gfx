@@ -1,0 +1,163 @@
+spriteTypes = {
+SpriteType = {
+	name = "GFX_goal_LAT_devaulate_the_currency"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_devaulate_the_currency.dds"
+}
+SpriteType = {
+	name = "GFX_goal_LAT_reject_ulmanis"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_reject_ulmanis.dds"
+}
+SpriteType = {
+	name = "GFX_goal_LAT_ulmanis"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_ulmanis.dds"
+}
+SpriteType = {
+	name = "GFX_goal_LAT_assemble_parliament"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_assemble_parliament.dds"
+}
+SpriteType = {
+	name = "GFX_goal_LAT_communists_win"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_communists_win.dds"
+}
+SpriteType = {
+	name = "GFX_goal_LAT_thunder_cross"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_thunder_cross.dds"
+}
+SpriteType = {
+	name = "GFX_goal_LAT_flag"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_flag.dds"
+}
+SpriteType = {
+	name = "GFX_goal_baltic_cooperation"
+	texturefile = "gfx/interface/goals/lat/r56_goal_baltic_cooperation.dds"
+}
+SpriteType = {
+	name = "GFX_goal_LAT_befriend_estonia"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_befriend_estonia.dds"
+}
+SpriteType = {
+	name = "GFX_goal_LAT_conquer_estonia"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_conquer_estonia.dds"
+}
+SpriteType = {
+	name = "GFX_goal_LAT_conquer_lithuania"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_conquer_lithuania.dds"
+}
+SpriteType = {
+	name = "GFX_goal_LAT_aizsargi"
+	texturefile = "gfx/interface/goals/lat/r56_goal_LAT_aizsargi.dds"
+}
+SpriteType = {
+	name = "GFX_goal_generic_radio_development"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_radio_development.dds"
+}
+SpriteType = {
+	name = "GFX_goal_generic_radio_development_2"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_radio_development_2.dds"
+}
+SpriteType = {
+	name = "GFX_goal_agrarian_reform"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_agrarian_reform.dds"
+}
+spriteType = {
+	name = "GFX_eye_focus_agriculture"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_agriculture.dds"
+}
+SpriteType = {
+	name = "GFX_goal_ammunitions"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_ammunitions.dds"
+}
+SpriteType = {
+	name = "GFX_r56_focus_army_elite"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_army_elite.dds"
+}
+SpriteType = {
+	name = "GFX_goal_SOV_baltic_aggression"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_baltic_aggression.dds"
+}
+SpriteType = {
+	name = "GFX_goal_generic_communist_economy"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_communist_economy.dds"
+}
+SpriteType = {
+	name = "GFX_goal_spread_communism"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_communist_europe.dds"
+}
+SpriteType = {
+	name = "GFX_goal_generic_communist_victory"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_communist_victory.dds"
+}
+SpriteType = {
+	name = "GFX_goal_consitution"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_consitution.dds"
+}
+spriteType = {
+	name = "GFX_sca_focus_fortification"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_fortification.dds"
+}
+spriteType = {
+	name = "GFX_sca_focus_liberty"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_liberty.dds"
+}
+SpriteType = {
+	name = "GFX_goal_proving_grounds"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_proving_grounds.dds"
+}
+SpriteType = {
+	name = "GFX_goal_tank_hunt"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_tank_hunt.dds"
+}
+SpriteType = {
+	name = "GFX_goal_zero_blue"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_zero_blue.dds"
+}
+spriteType = {
+	name = "GFX_eye_focus_army"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_army.dds"
+}
+SpriteType = {
+	name = "GFX_goal_communist_revolt"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_communist_revolt.dds"
+}
+SpriteType = {
+	name = "GFX_goal_generic_fortify_aa"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_fortify_aa.dds"
+}
+SpriteType = {
+	name = "GFX_goal_generic_power_plant"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_power_plant.dds"
+}
+SpriteType = {
+	name = "GFX_focus_generic_shipbuilding"
+	texturefile = "gfx/interface/goals/lat/r56_goal_generic_shipbuilding.dds"
+}
+SpriteType = {
+	name = "GFX_goal_conservative_government"
+	texturefile = "gfx/interface/goals/lat/r56_goal_SIA_conservative_government.dds"
+}
+SpriteType = {
+	name = "GFX_goal_fascist_propaganda"
+	texturefile = "gfx/interface/goals/lat/r56_goal_SIA_fascist_propaganda.dds"
+}
+
+SpriteType = {
+	name = "GFX_goal_improve_industry"
+	texturefile = "gfx/interface/goals/lat/r56_goal_SIA_improve_industry.dds"
+}
+SpriteType = {
+	name = "GFX_goal_seize_industry"
+	texturefile = "gfx/interface/goals/lat/r56_goal_SIA_seize_industry.dds"
+}
+SpriteType = {
+	name = "GFX_goal_state_intervention_economy_democracy"
+	texturefile = "gfx/interface/goals/lat/r56_goal_SIA_state_intervention_economy_democracy.dds"
+}
+SpriteType = {
+	name = "GFX_goal_communist_purge_wealthy"
+	texturefile = "gfx/interface/goals/lat/r56_goal_CHL_communist_purge_wealthy.dds"
+}
+SpriteType = {
+	name = "GFX_goal_soviet_agreement"
+	texturefile = "gfx/interface/goals/lat/soviet_agreement.dds"
+}
+}

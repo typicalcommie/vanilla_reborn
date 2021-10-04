@@ -1,0 +1,12 @@
+sub_units = {
+
+	transport_plane = {
+		sprite = heavy_plane
+		priority = 6
+		active = yes
+		type = { air_transport }
+		need = { transport_plane_equipment_ch = 1 }
+		need = { transport_plane_equipment = 1 }
+		}
+
+}

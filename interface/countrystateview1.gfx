@@ -1,0 +1,9 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_buildings_strip"
+		textureFile = "gfx/interface/buildings/buildings_listch.dds"
+		noOfFrames = 18
+	}
+
+}

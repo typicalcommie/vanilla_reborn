@@ -1,0 +1,33 @@
+﻿l_russian:
+
+ #SOO Optimization
+ 
+ sooo_player_was_here:0 "Оптимизация под игрока"
+ sooo_player_was_here_desc:0 "Этот национальный дух не меняет что-либо. Всё что он делает - показывает страну под управлением игрока." 
+ 
+ sooo_game_speed_balance:0 "Оптимизация под ИИ"
+ sooo_game_speed_balance_desc:0 "Эта страна не является участником ВМВ и управляется ИИ. Если ты игрок, то прожми в решениях "Я игрок"."
+ 
+ sooo_player_to_ai_to_player:0 "SOO Optimization Decision"
+ sooo_player_to_ai:0 "Получить дебаффы ИИ"
+ sooo_ai_to_player:0 "Я игрок. Убрать дебаффы."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #Vanilla Fixes
+ 
+
+ 

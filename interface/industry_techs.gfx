@@ -1,0 +1,22 @@
+spriteTypes = {
+###--->  Rescource production <><> <><> <><>
+
+#-> Tungsten production <><>
+	SpriteType = {
+		name = "GFX_tungsten_production_1_medium"
+		texturefile = "gfx/interface/technologies/industry/r56_tech_tungsten_production_01.dds"
+	}
+	SpriteType = {
+		name = "GFX_tungsten_production_2_medium"
+		texturefile = "gfx/interface/technologies/industry/r56_tech_tungsten_production_02.dds"
+	}
+	SpriteType = {
+		name = "GFX_tungsten_production_3_medium"
+		texturefile = "gfx/interface/technologies/industry/r56_tech_tungsten_production_03.dds"
+	}
+	SpriteType = {
+		name = "GFX_tungsten_production_4_medium"
+		texturefile = "gfx/interface/technologies/industry/r56_tech_tungsten_production_04.dds"
+	}
+
+}

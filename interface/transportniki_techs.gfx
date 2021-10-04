@@ -1,0 +1,61 @@
+spriteTypes = {
+###---> Изображения транспортников
+
+
+	SpriteType = {
+		name = "GFX_transport_planetch1_medium"
+		texturefile = "gfx/interface/technologies/planes/сtech_transport_plane_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_transport_planetch2_medium"
+		texturefile = "gfx/interface/technologies/planes/сtech_transport_plane_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_transport_planetch3_medium"
+		texturefile = "gfx/interface/technologies/planes/сtech_transport_plane_equipment_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_transport_planetch4_medium"
+		texturefile = "gfx/interface/technologies/planes/сtech_transport_plane_equipment_4.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_transport_plane_equipment_ch_1_medium"
+		texturefile = "gfx/interface/technologies/planes/сtech_transport_plane_equipment_1.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_transport_plane_equipment_ch_2_medium"
+		texturefile = "gfx/interface/technologies/planes/сtech_transport_plane_equipment_2.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_transport_plane_equipment_ch_3_medium"
+		texturefile = "gfx/interface/technologies/planes/сtech_transport_plane_equipment_3.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_transport_plane_equipment_ch_4_medium"
+		texturefile = "gfx/interface/technologies/planes/сtech_transport_plane_equipment_4.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_klinom"
+		texturefile = "gfx/interface/ideas/idea_klinom.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_advisor_lavrentiy_beria"
+		texturefile = "gfx\interface\ideas\advisors\idea_SOV_advisor_lavrentiy_beria.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_advisor_nikolai_yezhov"
+		texturefile = "gfx\interface\ideas\advisors\idea_SOV_advisor_nikolai_yezhov.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_soviet_republic_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_soviet_republic.dds"
+	}
+}

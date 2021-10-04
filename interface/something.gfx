@@ -1,0 +1,18 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_buildings_strip"
+		textureFile = "gfx/interface/buildings/buildings_listch.dds"
+		noOfFrames = 18
+	}
+
+	spriteType = {
+		name = "GFX_report_event_LAT_unification"
+		textureFile = "gfx/event_pictures/LAT/event_picture_LAT_unification.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_goal_SOV_five_year_plan"
+		textureFile = "gfx/interface/goals/sov/SOV_five_year_plan.dds"
+	}
+
+}

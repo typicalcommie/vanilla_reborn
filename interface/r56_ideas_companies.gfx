@@ -1,0 +1,17 @@
+#####-----> Mod by Sig "GreatExperiment" Altre
+####-----> Reorganized by Pordy <><> <><> <><>
+spriteTypes = {
+###------> LAT <><> <><> <><> <><> <><>
+	spriteType = {
+		name = "GFX_idea_vef"
+		texturefile = "gfx/interface/ideas/lat/companies/r56_idea_LAT_valsts_elektrotehniska_fabrika.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_vef_electronics"
+		texturefile = "gfx/interface/ideas/lat/companies/r56_idea_LAT_valsts_elektrotehniska_fabrika_rrr.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_LAT_sellier_and_bellot_riga"
+		texturefile = "gfx/interface/ideas/lat/companies/r56_idea_LAT_sellier_bellot.dds"
+	}
+}
