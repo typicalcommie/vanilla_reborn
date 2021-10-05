@@ -130,6 +130,33 @@ ideas = {
 				naval_doctrine = 0.05
 			}
 		}
+
+    gos_plan = {
+    allowed = {
+        has_goverment = communist
+}
+     allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = HOL_reliance_on_the_gold_standard
+
+			modifier = {
+				 production_speed_buildings_factor = 0.20
+			}
+		}
+
+
+
+
+
+
+
+
+}
+
 		LAT_FRA_army_attache_jacques_hoppenot = {
 			allowed = {
 				always = no

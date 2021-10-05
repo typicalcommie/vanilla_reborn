@@ -761,7 +761,7 @@ tactic_banzai_charge = { #Special Japan attacker tactic
 	defender = 0.1
 }
 
-tactic_banzai_charge = { #Special Japan attacker tactic
+tactic_banzai_charge = { #Special Soviet attacker tactic
 	is_attacker = yes
 	trigger = {
 		tag = SOV

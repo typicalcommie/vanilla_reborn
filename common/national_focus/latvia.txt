@@ -2255,7 +2255,7 @@ focus = {
 	relative_position_id = LAT_industry_from_soviet
 	x = -2
 	y = 1
-	cost = 6
+	cost = 10
 	available {
 		has_war = no
 	}
@@ -2282,6 +2282,43 @@ focus = {
 			}
 		}
 		add_ideas = socialist_science_focus
+	}
+}
+
+focus = {
+	id = LAT_gosplan
+	icon = GFX_goal_generic_national_unity
+	prerequisite = { focus = LAT_military_from_soviet }
+	relative_position_id = LAT_military_from_soviet
+	x = 0
+	y = 1
+	cost = 10
+	available {
+		has_war = no
+	}
+	
+	ai_will_do = {
+		factor = 5
+	}
+	
+	bypass = {}
+	
+	completion_reward = {
+		13 = {
+		add_building_construction = {
+			type = arms_factory
+			level = 2
+			instant_build = yes
+			}
+		}
+		191 = {
+		add_building_construction = {
+			type = industrial_complex
+			level = 2
+			instant_build = yes
+			}
+		}
+		add_ideas = gos_plan
 	}
 }
 
