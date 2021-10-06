@@ -1970,7 +1970,7 @@ focus_tree = {
 		}
 	}
 }
-# Коммунисты
+#commie
 
 focus = {
 	id = LAT_coalition_with_the_communists
@@ -2389,6 +2389,47 @@ focus = {
 
 	completion_reward = {
     add_ideas = LAT_spread_the_revolution
+  }
+}
+
+focus = {
+	id = LAT_spread_the_communism
+	icon = GFX_goal_spread_communism
+	prerequisite = { focus = LAT_spread_the_revolution }
+	relative_position_id = LAT_spread_the_revolution
+	x = 0
+	y = 1
+	cost = 10
+
+	available_if_capitulated = yes
+
+	available = {
+	}
+
+	ai_will_do = {
+		factor = 3
+	}
+
+	bypass = {
+	}
+
+	completion_reward = {
+    create_wargoal = {
+    type = puppet_wargoal_focus
+    target = FIN
+}
+create_wargoal = {
+    type = puppet_wargoal_focus
+    target = SWE
+}
+create_wargoal = {
+    type = puppet_wargoal_focus
+    target = NOR
+}
+create_wargoal = {
+    type = puppet_wargoal_focus
+    target = DAN
+}
   }
 }
 
