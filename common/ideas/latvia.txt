@@ -112,10 +112,6 @@ ideas = {
 			}
 		}
 
-    
-
-}
-
 		LAT_FRA_army_attache_jacques_hoppenot = {
 			allowed = {
 				always = no
@@ -578,6 +574,80 @@ LAT_communist_influence = {
   }
 }
 
+LAT_eliminate_capitalism = {
+
+	 allowed = {
+		 always = no
+	 }
+
+	 removal_cost = -1
+
+	 modifier = {
+		 trade_opinion_factor = -0.2
+		 industrial_capacity_factory = 0.05
+		 production_speed_buildings_factor = 0.15
+	 }
+
+	 picture = generic_central_management
+ }
+ 
+LAT_socialist_science = {
+			
+		allowed = {
+			always = no # Added via focus
+		}
+		
+		removal_cost = -1
+
+		allowed_civil_war = {
+			always = yes
+		}
+
+		picture = generic_manpower_bonus
+			
+		modifier = {
+			industrial_capacity_dockyard = 0.2
+			industrial_capacity_factory = 0.1
+		}
+	}
+		
+		
+LAT_gos_plan = {
+	allowed = {
+		always = no
+	}
+	allowed_civil_war = {
+		always = yes
+	}
+
+	removal_cost = -1
+
+	picture = HOL_reliance_on_the_gold_standard
+
+	modifier = {
+		production_speed_buildings_factor = 0.20
+	}
+}
+
+LAT_centralize_farming_production = {
+
+	allowed = {
+		always = no
+	}
+
+	allowed_civil_war = {
+		always = yes
+	}
+
+	removal_cost = -1
+
+	picture = communism_generic
+	modifier = {
+	 production_factory_max_efficiency_factor = 0.1
+	 consumer_goods_factor = -0.05
+	}
+}
+
 LAT_rally_the_workers = {
 
 
@@ -596,7 +666,7 @@ LAT_rally_the_workers = {
 	modifier = {
 		communism_drift = 0.05
 		conscription = 0.025
-}
+	}
 }
 
 LAT_spread_the_revolution = {
@@ -684,42 +754,6 @@ LAT_spread_the_revolution = {
 	 send_volunteer_divisions_required = -0.6
 	 send_volunteer_size = 2
 	 conscription_factor = 0.05
-	 }
- }
-
- LAT_eliminate_capitalism = {
-
-	 allowed = {
-		 always = no
-	 }
-
-	 removal_cost = -1
-
-	 modifier = {
-		 trade_opinion_factor = -0.2
-		 industrial_capacity_factory = 0.05
-		 production_speed_buildings_factor = 0.15
-	 }
-
-	 picture = generic_central_management
- }
-
- LAT_centralize_farming_production = {
-
-	 allowed = {
-		 always = no
-	 }
-
-	 allowed_civil_war = {
-		 always = yes
-	 }
-
-	 removal_cost = -1
-
-	 picture = communism_generic
-	 modifier = {
-		 production_factory_max_efficiency_factor = 0.1
-		 consumer_goods_factor = -0.05
 	 }
  }
 
@@ -1355,42 +1389,5 @@ LAT_aizsargi = {
 
 			traits = { industrial_concern }
 		}
-		
-	socialist_science_focus = {
-		removal_cost = -1
-			
-		allowed = {
-			always = no # Added via focus
-		}
-
-		allowed_civil_war = {
-			has_government = communism
-		}
-
-		picture = generic_manpower_bonus
-			
-		modifier = {
-			industrial_capacity_dockyard = 0.2
-			industrial_capacity_factory = 0.1
-		}
-	}
-		
-		
-	gos_plan = {
-		allowed = {
-			has_goverment = communist
-		}
-		allowed_civil_war = {
-			has_government = communism
-		}
-
-		removal_cost = -1
-
-		picture = HOL_reliance_on_the_gold_standard
-
-		modifier = {
-				 production_speed_buildings_factor = 0.20
-		}
-	}
-	}
+	}	
 }
