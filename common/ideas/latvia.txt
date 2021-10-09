@@ -55,25 +55,6 @@
 
 ideas = {
 	country = {
-		socialist_science_focus = {
-			removal_cost = -1
-			
-			allowed = {
-				always = no # Added via focus
-			}
-
-			allowed_civil_war = {
-				has_government = communism
-			}
-
-			picture = generic_manpower_bonus
-			
-			modifier = {
-				industrial_capacity_dockyard = 0.2
-				industrial_capacity_factory = 0.1
-			}
-		}
-		
 		LAT_JAP_army_attache_tamoku_takatsuki = {
 			allowed = {
 				always = no
@@ -131,29 +112,7 @@ ideas = {
 			}
 		}
 
-    gos_plan = {
-    allowed = {
-        has_goverment = communist
-}
-     allowed_civil_war = {
-				always = yes
-			}
-
-			removal_cost = -1
-
-			picture = HOL_reliance_on_the_gold_standard
-
-			modifier = {
-				 production_speed_buildings_factor = 0.20
-			}
-		}
-
-
-
-
-
-
-
+    
 
 }
 
@@ -1396,5 +1355,42 @@ LAT_aizsargi = {
 
 			traits = { industrial_concern }
 		}
+		
+	socialist_science_focus = {
+		removal_cost = -1
+			
+		allowed = {
+			always = no # Added via focus
+		}
+
+		allowed_civil_war = {
+			has_government = communism
+		}
+
+		picture = generic_manpower_bonus
+			
+		modifier = {
+			industrial_capacity_dockyard = 0.2
+			industrial_capacity_factory = 0.1
+		}
+	}
+		
+		
+	gos_plan = {
+		allowed = {
+			has_goverment = communist
+		}
+		allowed_civil_war = {
+			has_government = communism
+		}
+
+		removal_cost = -1
+
+		picture = HOL_reliance_on_the_gold_standard
+
+		modifier = {
+				 production_speed_buildings_factor = 0.20
+		}
+	}
 	}
 }
