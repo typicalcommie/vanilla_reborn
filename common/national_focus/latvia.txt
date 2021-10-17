@@ -2281,7 +2281,7 @@ focus = {
 			instant_build = yes
 			}
 		}
-		add_ideas = socialist_science_focus
+		add_ideas = LAT_socialist_science
 	}
 }
 
@@ -2318,7 +2318,7 @@ focus = {
 			instant_build = yes
 			}
 		}
-		add_ideas = gos_plan
+		add_ideas = LAT_gos_plan
 	}
 }
 

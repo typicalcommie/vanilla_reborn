@@ -9,4 +9,4 @@ tags={
 name="Vanilla Reborn"
 
 supported_version="1.10.8"
-path="/mod/vanilla_reborn"
+path="mod/vanilla_reborn"
